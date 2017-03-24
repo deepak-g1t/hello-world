@@ -1,2 +1,3 @@
 # hello-world
-First Repository for Testing Git
+
+This is test file. Did some edits to test.
